@@ -33,8 +33,6 @@
 
 > First project in TheDevMBA.
 
-![App Preview](./app_screenshot.png)
-
 **Hello world** is a Header whit styles whit my favorite color saying Hello Fullstack Program! 
 
 ## 🛠 Built With <a id="built-with"></a>
@@ -66,17 +64,10 @@
 
 ### Key Features <a id="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a id="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
