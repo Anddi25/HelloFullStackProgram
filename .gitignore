@@ -1,2 +1,5 @@
-#Ignora el archivo test.md
+# Ignore test.md
 test.md
+
+# Ignore linters
+node_modules/
